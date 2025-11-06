@@ -1,0 +1,1 @@
+python GB_train_AD.py --dataset ppi --data_prefix ./data/ --multilabel --num_layers 5 --bsize 1 --layernorm --precalc --hidden1 2048 --dropout 0.2 --weight_decay 0  --early_stopping 1000 --num_clusters_val 2 --num_clusters_test 1 --epochs 400 --save_name ./ppiGBmodel --diag_lambda 1
