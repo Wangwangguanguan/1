@@ -1,4 +1,4 @@
-# Supervised Graph Convolutional Network Training Algorithm via Granular-ball Coarsening Suitable for Large-scale Graph Datasets
+# Efficient and Scalable Granular-ball Graph Coarsening Method for Large-scale Graph Node Classification
 
 ## Install required Python packages
 pip install -r requirements.txt
